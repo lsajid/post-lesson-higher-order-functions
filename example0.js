@@ -13,7 +13,7 @@ function hello(str) {
 function double(number) {
   return number * 2;
 }
-
+//HI THIS IS A TEST :D 
 // console.log(double(5));
 
 //IN JAVASCRIPT, FUNCTIONS ARE VALUES JUST LIKE ANY OTHER VALUE
